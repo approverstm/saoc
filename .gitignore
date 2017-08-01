@@ -1,4 +1,5 @@
 #java specific 
+
 *.class
 
 #netbeans ignore personal stuff nbproject/
