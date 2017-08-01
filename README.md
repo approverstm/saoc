@@ -1,5 +1,6 @@
-# SAOC
-SAOC - Sistema Aprobador de Ordenes de Compra
+# SAOC.
+
+SAOC - Sistema Aprobador de Ordenes de Compra.
 
 # Contexto.
 
